@@ -27,7 +27,7 @@
 Sistema de chatbot educativo diseñado para asistir a estudiantes universitarios mediante inteligencia artificial. Utiliza **Retrieval-Augmented Generation (RAG)** para proporcionar respuestas contextualizadas basadas en material académico, y modelos de lenguaje locales (**Ollama**) para garantizar privacidad total de los datos.
 
 ### 🎯 Caso de Uso Principal
-Asistencia académica para el curso "Fundamentos de Inteligencia Artificial" (CINF103) de la Universidad Andrés Bello, Chile.
+Asistencia académica para el curso "Fundamentos de Inteligencia Artificial" (CINF103) de la Universidad Andrés Bello, Santiago, Chile.
 
 ---
 
